@@ -43,7 +43,7 @@ WebRTC로 환자와 의사를 연결하고 수화번역을 통해 농인의 진�
 
 ![ReservationConfirm](README.assets/ReservationConfirm.gif)
 
-### 온라인 진료
+### 온라인 진료(수화 모션 인식)
 
 ![online](README.assets/online.gif)
 
